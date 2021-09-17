@@ -20,7 +20,8 @@
     
 </div>   
   
-  <a href = "mailto:adri51@outlook.com.br "><img margin-top='115px ' src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:adri51@outlook.com.br "><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    
   <a href="https://www.linkedin.com/in/adriano-jos%C3%A9-582856181/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
   ![Snake animation](https://github.com/adrianojose706/adrianojose706/blob/output/github-contribution-grid-snake.svg)
