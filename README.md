@@ -1,6 +1,6 @@
 ### olá 👋 eu sou adriano 
 - 🔭 Hoje trabalhando com front-end
-- 🌱 estudo HTML5 | CSS3 | javascript
+- 🌱 Estudo HTML5 | CSS3 | javascript
 - ⚡ Pronouns: ele/dele 
 
 <div>
