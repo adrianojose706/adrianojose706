@@ -1,4 +1,4 @@
-### olá 👋 eu sou adriano 
+### olá meu nome adriano 👋  
 - 🔭 Hoje trabalhando com front-end
 - 🌱 Estudo HTML5 | CSS3 | javascript
 - ⚡ Pronouns: ele/dele 
