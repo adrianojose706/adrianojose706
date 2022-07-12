@@ -10,7 +10,7 @@
 </div>
   
 
-<img src=" https://commons.wikimedia.org/wiki/File:Python-logo-notext.svg" target="_blank">
+<img src=" https://commons.wikimedia.org/File:Python-logo-notext.svg" target="_blank">
 
  <a href = "mailto:adri51@outlook.com.br "><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     
