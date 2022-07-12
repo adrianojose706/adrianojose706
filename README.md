@@ -1,6 +1,6 @@
 ### Olá meu nome Adriano 👋  
-- 🔭 Hoje trabalhando com front-end
-- 🌱 Estudo HTML5 | CSS3 | javascript
+- 🔭 Hoje trabalhando com Python
+- 🌱 Estudante de Python
 - ⚡ Pronouns: ele/dele 
 
 <div>
