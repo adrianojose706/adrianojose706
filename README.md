@@ -1,4 +1,4 @@
-### Olá meu nome Adriano 👋  
+### Olá meu nome é Adriano 👋  
 - 🔭 Hoje trabalhando com Python
 - 🌱 Estudante de Python
 - ⚡ Pronouns: ele/dele 
