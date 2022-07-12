@@ -10,7 +10,7 @@
 </div>
   
 
-     <a href = "https://github.com/adrianojose706"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/2048px-Python.svg.png" target="_blank"></a>
+     <a href = "https://github.com/adrianojose706 "><img src=" https://commons.wikimedia.org/wiki/File:Python-logo-notext.svg" target="_blank"></a>
  <a href = "mailto:adri51@outlook.com.br "><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     
   <a href="https://www.linkedin.com/in/adriano-jos%C3%A9-582856181/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
