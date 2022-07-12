@@ -9,8 +9,9 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrianojose706&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
   
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/2048px-Python.svg.png" jsaction="load:XAeZkd;" jsname="HiaYvf" class="n3VNCb KAlRDb" alt="Ficheiro:Python.svg - Wikcionário" data-noaft="1" style="wdth: 30px; eight: 30px; margin: 0px;"
-     <a href = "mailto:adri51@outlook.com.br "><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+
+     <a href = "https://github.com/adrianojose706"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/2048px-Python.svg.png" target="_blank"></a>
+ <a href = "mailto:adri51@outlook.com.br "><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     
   <a href="https://www.linkedin.com/in/adriano-jos%C3%A9-582856181/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
