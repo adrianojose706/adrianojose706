@@ -1,7 +1,8 @@
-### Olá meu nome é Adriano 👋  
-- 🔭 Hoje trabalhando com Python
+-  ✌️ Olá meu nome é Adriano 👋  
+- 💻 Sou amante de tecnologia e estudante de programação. 
+- 🏠 Eu moro no Brasil. Atualmente.
 - 🌱 Estudante de Python
-- ⚡ Pronouns: ele/dele 
+- ⚡  Pronouns: ele/dele 
 
 <div>
   <a href="https://github.com/adrianojose706">
